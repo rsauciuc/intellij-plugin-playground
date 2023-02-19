@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.rsauciuc.intellijpluginplayground.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.rsauciuc.intellijpluginplayground.MyBundle
 
 class MyApplicationService {
 
